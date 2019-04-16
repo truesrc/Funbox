@@ -1,5 +1,4 @@
-Запустить Redis `redis-server`
-
+Установить и запустить Redis `redis-server`
 
 POST http://localhost:8080/visited_links
 Content-Type: application/json;charset=UTF-8
